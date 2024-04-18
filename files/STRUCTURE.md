@@ -24,9 +24,9 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
 - **Attractions Structure**: Define if the park is about a single attraction or multiple ones:
 
   - *Single Attraction*
-  - *Multi Attractions*
+  - *Multiple Attractions*
     
-- **Attractions Types**: Divides attractions into Rides and Non-Rides, further categorizing rides into sub-types:
+- **Attractions Type**: Divides attractions into Rides and Non-Rides, further categorizing rides into sub-types:
 
   - *Rides*
     - *Light Rides*
@@ -41,15 +41,32 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
 - **Show Structure**: Define if the park is about a single show or multiple ones:
 
   - *Single Show*
-  - *Multi Shows*
+  - *Multiple Shows*
     
-- **Shows Types**: Differentiates between various show formats offered within parks, such as:
+- **Shows Types**: Focuses on parks that primarily offer show formats, detailing types like:
 
   - *Theatre*
   - *Arena*
   - *Marine*
 
-Exhibition: Focuses on parks that primarily offer exhibitions, detailing types like Art & Cultural Museums and Miniland.
+- **Exhibition Structure**: Define if the park is about a single exhibition or multiple ones:
+
+  - *Single Exhibition*
+  - *Multiple Exhbitions*
+
+- **Exhibition Type**: Focuses on parks that primarily offer exhibitions, detailing types like:
+
+  - *Art & Cultural Museum*
+  - *Miniland*
+  - *Factory Tour*
+  - *Multimedia & Sensory Space*
+
+- **Wildlife Type**: Focuses on parks that primarily offer wildlife experiences, detailing types like:
+
+  - *Zoo*
+  - *Safari*
+  - *Aquarium*
+      
 Location: Defines parks based on their geographical settings, such as Urban, Coastal, or Rural locations.
 Resort: Distinguishes between parks that are part of a resort and those that are standalone.
 Operational Environment: Classifies parks by their operational environments, whether Indoor, Outdoor, or Mixed.
