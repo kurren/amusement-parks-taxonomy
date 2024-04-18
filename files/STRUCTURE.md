@@ -18,7 +18,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Family Entertainment Centers (FEC)*
   - *Retail Villages*
   - *Adventure Parks*
-  - *Ice, Sky, Snow Dome*
+  - *Ice & Snow, Sky, Track & Karting*
   - *Entertainment Complex*
  
 - **Attractions Structure**: Define if the park is about a single attraction or multiple ones:
@@ -38,39 +38,59 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Non-Rides*
     - *Walkthrough*
 
-- **Show Structure**: Define if the park is about a single show or multiple ones:
+- **Shows Structure**: Define if the park is about a single show or multiple ones:
 
   - *Single Show*
   - *Multiple Shows*
     
-- **Shows Types**: Focuses on parks that primarily offer show formats, detailing types like:
+- **Shows Type**: Focuses on parks that primarily offer show formats, detailing types like:
 
   - *Theatre*
   - *Arena*
   - *Marine*
+ 
+- **Wildlife Type**: Focuses on parks that primarily offer wildlife experiences, detailing types like:
 
-- **Exhibition Structure**: Define if the park is about a single exhibition or multiple ones:
+  - *Zoo*
+  - *Safari*
+  - *Aquarium*
+
+- **Activities Structure**: Define if the park is about a single activity or multiple ones:
+
+  - *Single Activity*
+  - *Multiple Activity*
+
+- **Activities Type**: Focuses on parks that primarily offer activities, detailing types like:
+
+  - *Skiing*
+  - *Ice Skating*
+  - *Indoor Sky Diving*
+  - *Roller Skating*
+  - *Karting*
+
+- **Exhibitions Structure**: Define if the park is about a single exhibition or multiple ones:
 
   - *Single Exhibition*
   - *Multiple Exhbitions*
 
-- **Exhibition Type**: Focuses on parks that primarily offer exhibitions, detailing types like:
+- **Exhibitions Type**: Focuses on parks that primarily offer exhibitions, detailing types like:
 
   - *Art & Cultural Museum*
   - *Miniland*
   - *Factory Tour*
   - *Multimedia & Sensory Space*
 
-- **Wildlife Type**: Focuses on parks that primarily offer wildlife experiences, detailing types like:
-
-  - *Zoo*
-  - *Safari*
-  - *Aquarium*
+- **Locations Type**: Define the geogrpahical location of the park, detailing the following types:
+  
+  - *Urban*
+  - *Sub-Urban*
+  - *Rural*
+  - *Coastal*
+  - *Cruising*
       
 Location: Defines parks based on their geographical settings, such as Urban, Coastal, or Rural locations.
 Resort: Distinguishes between parks that are part of a resort and those that are standalone.
 Operational Environment: Classifies parks by their operational environments, whether Indoor, Outdoor, or Mixed.
 Waterpark: Differentiates between parks that focus on water-based attractions and those that do not.
-Wildlife-Based Elements: Categorizes parks that feature wildlife attractions, such as Zoos, Safaris, and Aquariums.
 
 This structure is implemented to ensure clarity and ease of access to information, enabling better data management and application across various projects and studies. Each branch is crucial for providing a holistic view of the amusement park industry, offering insights into the diverse ways parks can be organized and understood.
