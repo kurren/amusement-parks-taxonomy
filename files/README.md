@@ -5,6 +5,7 @@ This section of the README provides a comprehensive overview of the taxonomy str
 The Amusement Park Taxonomy is organized into several main branches, each focusing on different aspects of amusement park attributes and operations. Below is a detailed description of each branch:
 
 - **Core Activity**: Organizes parks based on their core activities like:
+  
   - *Attractions*
   - *Exhibitions*
   - *Shows*
