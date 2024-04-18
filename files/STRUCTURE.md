@@ -99,7 +99,6 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Themed*
   - *Unthemed*
       
-Resort: Distinguishes between parks that are part of a resort and those that are standalone.
-Waterpark: Differentiates between parks that focus on water-based attractions and those that do not.
+Other branches not described here may be found as JSON files in the current directory.
 
 This structure is implemented to ensure clarity and ease of access to information, enabling better data management and application across various projects and studies. Each branch is crucial for providing a holistic view of the amusement park industry, offering insights into the diverse ways parks can be organized and understood.
