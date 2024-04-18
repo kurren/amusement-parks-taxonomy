@@ -87,10 +87,19 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Rural*
   - *Coastal*
   - *Cruising*
+ 
+- **Operational Environment**: Classifies parks by their main operational environment:
+
+ - *Indoor*
+ - *Outdoor*
+ - *Mixed*
+
+- **Theme Type**: Categorise parks by their having a common theme, typically associated with a branded Intellectual Property  (e.g. Disney, Lego) or not:
+
+  - *Themed*
+  - *Unthemed*
       
-Location: Defines parks based on their geographical settings, such as Urban, Coastal, or Rural locations.
 Resort: Distinguishes between parks that are part of a resort and those that are standalone.
-Operational Environment: Classifies parks by their operational environments, whether Indoor, Outdoor, or Mixed.
 Waterpark: Differentiates between parks that focus on water-based attractions and those that do not.
 
 This structure is implemented to ensure clarity and ease of access to information, enabling better data management and application across various projects and studies. Each branch is crucial for providing a holistic view of the amusement park industry, offering insights into the diverse ways parks can be organized and understood.
