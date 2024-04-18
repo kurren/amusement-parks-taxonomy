@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org/",
+  "@graph": [
+    {
+      "@id": "http://example.org/parks-core-activities",
+      "@type": "Organization",
+      "name": "Parks Core Activities",
+      "description": "Categorization of amusement parks based on their core offer: Attractions, Exhibitions, Retail, Shows, Wildlife.",
+      "hasBranch": [
+        {
+          "@id": "http://example.org/attractions",
+          "name": "Attractions",
+          "description": "The variety of mechanical rides and interactive entertainment offerings like roller coasters, water rides, and themed rides.",
+          "example": {
+            "@type": "Place",
+            "name": "Thrill Seekers Paradise",
+            "description": "Features some of the tallest and fastest roller coasters in the world, alongside family-friendly rides and interactive games."
+          }
+        },
+        {
+          "@id": "http://example.org/exhibitions",
+          "name": "Exhibitions",
+          "description": "Educational and cultural exhibitions, including science museums, art galleries, and historical displays.",
+          "example": {
+            "@type": "Place",
+            "name": "Discovery Hub",
+            "description": "Hosts rotating science exhibitions that engage visitors of all ages with interactive displays and cutting-edge technology."
+          }
+        },
+        {
+          "@id": "http://example.org/retail",
+          "name": "Retail",
+          "description": "A retail space with attractions and kids playgrounds offering merchandise, themed products, and local goods.",
+          "example": {
+            "@type": "Place",
+            "name": "Market Street",
+            "description": "A bustling retail avenue offering everything from exclusive theme park merchandise to local artisan crafts."
+          }
+        },
+        {
+          "@id": "http://example.org/shows",
+          "name": "Shows",
+          "description": "Live performances and entertainment, including theatre productions, concerts, and special events.",
+          "example": {
+            "@type": "Place",
+            "name": "Grand Stage",
+            "description": "A premier venue for live concerts and theatrical performances, featuring state-of-the-art sound and lighting."
+          }
+        },
+        {
+          "@id": "http://example.org/wildlife",
+          "name": "Wildlife",
+          "description": "Zoological parks or areas within amusement parks where visitors can interact with or view animals.",
+          "example": {
+            "@type": "Place",
+            "name": "Safari Adventures",
+            "description": "A vast wildlife park where guests can go on safari to see and learn about exotic animals in a semi-natural habitat."
+          }
+        }
+      ]
+    }
+  ]
+}
