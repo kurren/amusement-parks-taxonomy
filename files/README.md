@@ -11,9 +11,26 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Shows*
   - *Wildlife*
 
+- **Park Type**: Categorizes parks based on their primary characteristics and offerings, such as:
+  
+  - *Family Entertainment Centers (FEC)*
+  - *Retail Villages*
+  - *Adventure Parks*
+  - *Ice, Sky, Snow Dome*
+  - *Entertainment Complex*
+    
+- **Attractions Families**: Divides attractions into Rides and Non-Rides, further categorizing rides into sub-types:
 
-Park Type: Categorizes parks based on their primary characteristics and offerings, such as Family Entertainment Centers, Retail Villages, Adventure Parks, etc.
-Attractions Families: Divides attractions into Rides and Non-Rides, further categorizing rides into sub-types like Light Rides, Dark Rides, etc.
+  - *Rides*
+    - *Light Rides*
+    - *Dark Rides*
+    - *Flat Rides*
+    - *Gravity Rides*
+    - *Vertical Rides*
+    - *VR, 4D & Simulation Rides*
+  - *Non-Rides*
+    - *Walkthrough*
+  
 Shows Types: Differentiates between various show formats offered within parks, such as Theatre Shows, Arena Shows, and Marine Shows.
 Exhibition: Focuses on parks that primarily offer exhibitions, detailing types like Art & Cultural Museums and Miniland.
 Location: Defines parks based on their geographical settings, such as Urban, Coastal, or Rural locations.
