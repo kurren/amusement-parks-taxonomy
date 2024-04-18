@@ -4,13 +4,15 @@ This section of the README provides a comprehensive overview of the taxonomy str
 ## Taxonomy Overview
 The Amusement Park Taxonomy is organized into several main branches, each focusing on different aspects of amusement park attributes and operations. Below is a detailed description of each branch:
 
-- **Core Activity**: Organizes parks based on their core activities like:
+- **Core Offer**: Organizes parks based on their core offer like:
   
   - *Attractions*
-  - *Exhibitions*
   - *Shows*
   - *Wildlife*
-
+  - *Activities*
+  - *Exhibitions*
+  - *Retail*
+ 
 - **Park Type**: Categorizes parks based on their primary characteristics and offerings, such as:
   
   - *Family Entertainment Centers (FEC)*
@@ -18,8 +20,13 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Adventure Parks*
   - *Ice, Sky, Snow Dome*
   - *Entertainment Complex*
+ 
+- **Attractions Structure**: Define if the park is about a single attraction or multiple ones:
+
+  - *Single Attraction*
+  - *Multi Attractions*
     
-- **Attractions Families**: Divides attractions into Rides and Non-Rides, further categorizing rides into sub-types:
+- **Attractions Types**: Divides attractions into Rides and Non-Rides, further categorizing rides into sub-types:
 
   - *Rides*
     - *Light Rides*
@@ -30,8 +37,18 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
     - *VR, 4D & Simulation Rides*
   - *Non-Rides*
     - *Walkthrough*
-  
-Shows Types: Differentiates between various show formats offered within parks, such as Theatre Shows, Arena Shows, and Marine Shows.
+
+- **Show Structure**: Define if the park is about a single show or multiple ones:
+
+  - *Single Show*
+  - *Multi Shows*
+    
+- **Shows Types**: Differentiates between various show formats offered within parks, such as:
+
+  - *Theatre*
+  - *Arena*
+  - *Marine*
+
 Exhibition: Focuses on parks that primarily offer exhibitions, detailing types like Art & Cultural Museums and Miniland.
 Location: Defines parks based on their geographical settings, such as Urban, Coastal, or Rural locations.
 Resort: Distinguishes between parks that are part of a resort and those that are standalone.
