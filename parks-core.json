@@ -1,8 +1,0 @@
-{
-    "@context": "http://schema.org/",
-    "@type": "Organization",
-    "name": "Parks Core",
-    "description": "Categorization of amusement parks based on their core activities: Attractions, Exhibitions, Shows, Wildlife.",
-    "branch": ["Attractions","Exhibitions","Shows","Wildlife"]
-  }
-  
