@@ -1,0 +1,64 @@
+{
+    "@context": "http://schema.org/",
+    "@graph": [
+      {
+        "@id": "http://example.org/park-type-branch",
+        "@type": "Organization",
+        "name": "Park Type Branch",
+        "description": "Categorizes amusement parks and entertainment venues by type: Family Entertainment Center, Retail Village, Adventure Park, Ice/Sky/Snow Dome, Entertainment Complex.",
+        "hasBranch": [
+          {
+            "@id": "http://example.org/family-entertainment-center",
+            "name": "Family Entertainment Center",
+            "description": "A venue offering a variety of entertainment options for the whole family, including arcade games, mini-golf, and small rides.",
+            "example": {
+              "@type": "Place",
+              "name": "Fun Galaxy",
+              "description": "A family-friendly venue packed with arcade games, laser tag, and indoor play areas designed to entertain children and adults alike."
+            }
+          },
+          {
+            "@id": "http://example.org/retail-village",
+            "name": "Retail Village",
+            "description": "A themed shopping area within a park, offering a range of retail shops, boutiques, and eateries, often reflecting the park's overall theme.",
+            "example": {
+              "@type": "Place",
+              "name": "Marketplace Meadows",
+              "description": "An immersive retail village where visitors can shop for unique gifts, dine in themed restaurants, and enjoy street performances."
+            }
+          },
+          {
+            "@id": "http://example.org/adventure-park",
+            "name": "Adventure Park",
+            "description": "Outdoor parks focused on adventure sports and activities like zip-lining, rock climbing, and obstacle courses.",
+            "example": {
+              "@type": "Place",
+              "name": "Thrillseeker's Haven",
+              "description": "An outdoor adventure park offering challenging obstacle courses, high-speed zip lines, and rock climbing for thrill-seekers of all ages."
+            }
+          },
+          {
+            "@id": "http://example.org/ice-sky-snow-dome",
+            "name": "Ice & Snow, Sky, Track & Karting",
+            "description": "Enclosed venues that offer year-round ice skating, skiing, or snowboarding experiences, or indoor skydiving, or roller skating, or karting (indoor or outdoor).",
+            "example": {
+              "@type": "Place",
+              "name": "Winter Wonderland Dome",
+              "description": "A climate-controlled dome offering indoor skiing and snowboarding slopes, ice skating rinks, and snow play areas for family fun."
+            }
+          },
+          {
+            "@id": "http://example.org/entertainment-complex",
+            "name": "Entertainment Complex",
+            "description": "Large venues combining various forms of entertainment and attractions, but also retail, cinemas, bowling alleys, concert halls, and dining options.",
+            "example": {
+              "@type": "Place",
+              "name": "Entertainment City",
+              "description": "A sprawling complex featuring the latest in cinema, live music venues, gourmet dining, and boutique bowling, providing entertainment for all interests."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
