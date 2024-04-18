@@ -89,10 +89,10 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Cruising*
  
 - **Operational Environment**: Classifies parks by their main operational environment:
-
- - *Indoor*
- - *Outdoor*
- - *Mixed*
+    
+    - *Indoor*
+    - *Outdoor*
+    - *Mixed*
 
 - **Theme Type**: Categorise parks by their having a common theme, typically associated with a branded Intellectual Property  (e.g. Disney, Lego) or not:
 
