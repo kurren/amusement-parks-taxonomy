@@ -4,7 +4,7 @@ This section of the README provides a comprehensive overview of the taxonomy str
 ## Taxonomy Overview
 The Amusement Park Taxonomy is organized into several main branches, each focusing on different aspects of amusement park attributes and operations. Below is a detailed description of each branch:
 
-- **Core Offer**: Organizes parks based on their core offer like:
+- **Offer**: Organizes parks based on their core offer like:
   
   - *Attractions*
   - *Shows*
@@ -21,7 +21,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Ice & Snow, Sky, Track & Karting*
   - *Entertainment Complex*
  
-- **Attractions Structure**: Define if the park is about a single attraction or multiple ones:
+- **Attractions**: Define if the park is about a single attraction or multiple ones:
 
   - *Single Attraction*
   - *Multiple Attractions*
@@ -38,7 +38,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Non-Rides*
     - *Walkthrough*
 
-- **Shows Structure**: Define if the park is about a single show or multiple ones:
+- **Shows**: Define if the park is about a single show or multiple ones:
 
   - *Single Show*
   - *Multiple Shows*
@@ -55,7 +55,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Safari*
   - *Aquarium*
 
-- **Activities Structure**: Define if the park is about a single activity or multiple ones:
+- **Activities**: Define if the park is about a single activity or multiple ones:
 
   - *Single Activity*
   - *Multiple Activity*
@@ -68,7 +68,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Roller Skating*
   - *Karting*
 
-- **Exhibitions Structure**: Define if the park is about a single exhibition or multiple ones:
+- **Exhibitions**: Define if the park is about a single exhibition or multiple ones:
 
   - *Single Exhibition*
   - *Multiple Exhbitions*
@@ -104,4 +104,4 @@ Other branches not described here may be found as JSON files in the current dire
 This structure is implemented to ensure clarity and ease of access to information, enabling better data management and application across various projects and studies. Each branch is crucial for providing a holistic view of the amusement park industry, offering insights into the diverse ways parks can be organized and understood.
 
 ### Files types
-You will find two types of files in this folder, both JSON-LD, one ("core") is defining the structure, the other ("examples") illustratively implementing that structure.
+You will find two types of files in this folder, both JSON-LD, one is defining the structure, the other ("examples") illustratively implementing that structure.
