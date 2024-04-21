@@ -4,7 +4,7 @@
     {
       "@id": "http://example.org/parks-core-activities",
       "@type": "Organization",
-      "name": "Parks Core Activities",
+      "name": "Parks Offer",
       "description": "Categorization of amusement parks based on their core offer: Attractions, Exhibitions, Retail, Shows, Wildlife.",
       "hasBranch": [
         {
