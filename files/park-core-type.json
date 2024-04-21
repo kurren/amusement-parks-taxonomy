@@ -3,12 +3,6 @@
     "@type": "Organization",
     "name": "Park Type",
     "description": "Classifies parks and entertainment venues into distinct types: Family Entertainment Center, Retail Village, Adventure Park, Ice, Sky, Snow Dome, Entertainment Complex.",
-    "branch": [
-      "Family Entertainment Center",
-      "Retail Village",
-      "Adventure Park",
-      "Ice & Snow, Sky, Track & Karting",
-      "Entertainment Complex"
-    ]
+    "branch": ["Family Entertainment Center","Retail Village","Adventure Park","Ice & Snow, Sky, Track & Karting","Entertainment Complex"]
   }
   
