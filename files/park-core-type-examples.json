@@ -4,7 +4,7 @@
       {
         "@id": "http://example.org/park-type-branch",
         "@type": "Organization",
-        "name": "Park Type Branch",
+        "name": "Parks Type",
         "description": "Categorizes amusement parks and entertainment venues by type: Family Entertainment Center, Retail Village, Adventure Park, Ice/Sky/Snow Dome, Entertainment Complex.",
         "hasBranch": [
           {
