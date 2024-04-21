@@ -4,7 +4,7 @@ This section of the README provides a comprehensive overview of the taxonomy str
 ## Taxonomy Overview
 The Amusement Park Taxonomy is organized into several main branches, each focusing on different aspects of amusement park attributes and operations. Below is a detailed description of each branch:
 
-- **Offer**: Organizes parks based on their core offer like:
+- **Offer**: Parks based on their core offer like:
   
   - *Attractions*
   - *Shows*
@@ -13,7 +13,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Exhibitions*
   - *Retail*
  
-- **Park Type**: Categorizes parks based on their primary characteristics and offerings, such as:
+- **Park Type**: Parks based on their primary characteristics and offerings, such as:
   
   - *Family Entertainment Centers (FEC)*
   - *Retail Villages*
@@ -21,12 +21,12 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Ice & Snow, Sky, Track & Karting*
   - *Entertainment Complex*
  
-- **Attractions**: Define if the park is about a single attraction or multiple ones:
+- **Attractions**: Defining if the park is about a single attraction or multiple ones:
 
   - *Single Attraction*
   - *Multiple Attractions*
     
-- **Attractions Type**: Divides attractions into Rides and Non-Rides, further categorizing rides into sub-types:
+- **Attractions Type**: Dividing attractions into Rides and Non-Rides, further categorizing rides into sub-types:
 
   - *Rides*
     - *Light Rides*
@@ -38,7 +38,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Non-Rides*
     - *Walkthrough*
 
-- **Shows**: Define if the park is about a single show or multiple ones:
+- **Shows**: Defining if the park is about a single show or multiple ones:
 
   - *Single Show*
   - *Multiple Shows*
@@ -55,7 +55,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Safari*
   - *Aquarium*
 
-- **Activities**: Define if the park is about a single activity or multiple ones:
+- **Activities**: Defining if the park is about a single activity or multiple ones:
 
   - *Single Activity*
   - *Multiple Activity*
@@ -68,7 +68,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Roller Skating*
   - *Karting*
 
-- **Exhibitions**: Define if the park is about a single exhibition or multiple ones:
+- **Exhibitions**: Defining if the park is about a single exhibition or multiple ones:
 
   - *Single Exhibition*
   - *Multiple Exhbitions*
@@ -80,7 +80,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Factory Tour*
   - *Multimedia & Sensory Space*
 
-- **Locations Type**: Define the geogrpahical location of the park, detailing the following types:
+- **Locations Type**: Definining the geogrpahical location of the park, detailing the following types:
   
   - *Urban*
   - *Sub-Urban*
@@ -88,13 +88,13 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   - *Coastal*
   - *Cruising*
  
-- **Operational Environment**: Classifies parks by their main operational environment:
+- **Operational Environment**: Classifying parks by their main operational environment:
     
     - *Indoor*
     - *Outdoor*
     - *Mixed*
 
-- **Theme Type**: Categorise parks by their having a common theme, typically associated with a branded Intellectual Property  (e.g. Disney, Lego) or not:
+- **Theme Type**: Categorising parks by their having a common theme, typically associated with a branded Intellectual Property  (e.g. Disney, Lego) or not:
 
   - *Themed*
   - *Unthemed*
