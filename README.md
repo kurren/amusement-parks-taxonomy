@@ -1,4 +1,4 @@
-# Amusement Park Taxonomy
+# Amusement Parks Taxonomy
 ## Introduction
 Welcome to the Amusement Park Taxonomy Project.
 This repository is dedicated to developing a comprehensive taxonomy for amusement parks worldwide, classifying them based on various attributes including park types, attractions, operational environments, and visitor demographics. The taxonomy is designed to serve as a foundational framework for industry stakeholders, researchers, and enthusiasts to analyze, compare, and explore the diverse world of amusement parks. 
