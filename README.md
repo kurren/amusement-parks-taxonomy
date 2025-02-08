@@ -32,4 +32,4 @@ License
 This project is released under the *GNU General Public License v3.0*, which provides the freedom to modify and redistribute the taxonomy under the same license.
 
 ## Contact
-For more information or to get involved, please contact the author, Alessandro Piana Bianco, at a@pianabianco.com.
+For more information, please contact the author, Alessandro Piana Bianco, at a@pianabianco.com.
