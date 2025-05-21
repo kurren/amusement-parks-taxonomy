@@ -8,7 +8,7 @@ The Amusement Park Taxonomy is organized into several main branches, each focusi
   
   - *Attractions*
   - *Shows*
-  - *Wildlife* (including **Farms** and **Pet Farms**)
+  - *Wildlife* (including *Farms* and *Pet Farms*)
   - *Gardens*
   - *Activities*
   - *Exhibitions*
